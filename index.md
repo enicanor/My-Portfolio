@@ -1,6 +1,6 @@
 # Eric E. Nicanor – Cybersecurity Passion Portfolio
 
-Welcome to my cybersecurity portfolio. This site reflects my continuing journey from military leadership to cybersecurity operations — combining strategic insight with hands-on technical growth.
+Welcome to my cybersecurity portfolio. This site reflects my continuing journey from leadership over military operations, information technology, and cybersecurity operations — combining strategic insight with hands-on technical growth, and driven by a commitment to enhancing and securing IT productivity in an ever-evolving digital environment.
 
 ---
 
