@@ -9,8 +9,10 @@ Welcome to my cybersecurity portfolio. This site reflects my continuing journey 
 - SOC Operations & Management  
 - Threat Hunting & Blue Team Strategy
 - Ethical Hacking
-- VAPT
-- Cybersecurity Governance (NIST, ISO, CIS)  
+- Vulnerability Management
+- Penetration Testing
+- Cybersecurity Governance (NIST, ISO, CIS)
+- Cloud Technologies
 - IT Systems Leadership  
 - Cyber Resilience at National & Enterprise Levels
 
