@@ -2,7 +2,7 @@
 
 Hello! I’m Major General (Ret.) Eric E. Nicanor — a cybersecurity and technology operations executive with 37 years of leadership experience in defense and ICT.
 
-After a distinguished military career, I am now transitioning into civilian cybersecurity, with a strong focus on the CISO track, SOC leadership, and other key information security roles.
+This portfolio reflects my continuing journey into cybersecurity, with a focus on strategic leadership, hands-on technical growth, and enabling cyber resilience through practical labs and structured training.
 
 ## Interests
 - SOC management and cyber operations
@@ -16,8 +16,5 @@ After a distinguished military career, I am now transitioning into civilian cybe
 - Vulnerability Assessment & Penetration Testing (VAPT)
 - Cyber Defense & Threat Hunting (CDTH)
 - Elastic SIEM (Elastic.co)
-- CySA+ (in progress)
 - Microsoft Cybersecurity Analyst (Coursera)
-
-## Career Goal
-To lead cybersecurity operations and strategy as a CISO or SOC Manager, applying military discipline, operational excellence, and strategic foresight to today’s complex cyber challenges.
+- CompTIA CySA+ (in progress)
