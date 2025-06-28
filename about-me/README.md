@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I’m Major General (Ret.) Eric E. Nicanor — a cybersecurity and technology operations executive with 37 years of leadership experience in defense and ICT.
+Hello! I’m Philippine Marine Major General Eric E. Nicanor (Retired)  — a cybersecurity and technology operations executive with 37 years of military leadership experience in military security operations & support,  information & communication technology, C4ISR systems, weapons system and cyber systems.
 
 This portfolio reflects my continuing journey into cybersecurity, with a focus on strategic leadership, hands-on technical growth, and enabling cyber resilience through practical labs and structured training.
 
