@@ -39,7 +39,7 @@ I've developed much of my knowledge through a mix of **free**, **affordable**, a
 
 - Open-source labs using **Elastic**, **Wazuh**, **MITRE ATT&CK**, and **Kali Linux**
 - Online learning via **Coursera**, **Udemy**, and **TryHackMe**
-- Structured training through **GUIDEM**, whose CDTH and VAPT programs gave me hands-on exposure to cyber defense, threat detection, and SOC practices
+- Real--world training through **GUIDEM**, whose CDTH and VAPT programs gave me hands-on exposure to cyber defense, threat detection, and SOC practices
 
 I share this openly to encourage:
 - **Veterans and professionals** considering a career shift into cybersecurity
@@ -51,5 +51,4 @@ If this portfolio inspires just one person to take the next step in their journe
 ---
 
 ## Stay tuned — I’m actively building.  
-Open to meaningful conversations in cybersecurity leadership, IT development, and strategic --
-
+Open to meaningful conversations in cybersecurity leadership, IT development, and strategic & tactical cyber
