@@ -51,13 +51,5 @@ If this portfolio inspires just one person to take the next step in their journe
 ---
 
 ## Stay tuned — I’m actively building.  
-Open to meaningful conversations in cybersecurity leadership, IT development, and strategic operations.
+Open to meaningful conversations in cybersecurity leadership, IT development, and strategic --
 
----
-
----
-
-## 📁 Explore My Portfolio
-
-- [🎓 Certifications & Training](./certs/)
-- [🛠️ Projects & Labs](./projects/)
