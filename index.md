@@ -1,4 +1,4 @@
-# Eric E. Nicanor – Cybersecurity Leadership Portfolio
+# Eric E. Nicanor – Cybersecurity Passion Portfolio
 
 Welcome to my cybersecurity portfolio. This site reflects my continuing journey from military leadership to cybersecurity operations — combining strategic insight with hands-on technical growth.
 
@@ -7,7 +7,9 @@ Welcome to my cybersecurity portfolio. This site reflects my continuing journey 
 ## 🔍 Focus Areas
 
 - SOC Operations & Management  
-- Threat Hunting & Blue Team Strategy  
+- Threat Hunting & Blue Team Strategy
+- Ethical Hacking
+- VAPT
 - Cybersecurity Governance (NIST, ISO, CIS)  
 - IT Systems Leadership  
 - Cyber Resilience at National & Enterprise Levels
