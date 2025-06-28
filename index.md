@@ -44,10 +44,14 @@ I've built this using mostly **free and affordable resources**, including open-s
 - Professionals from non-technical fields  
 - Students and new learners starting out
 
+
+## Stay tuned — I’m actively building.
+Open to meaningful conversations in cybersecurity leadership, IT development, and strategic operations.
+
 ---
 
-> Stay tuned — I’m actively building.  
-> Open to meaningful conversations in cybersecurity leadership, IT development, and strategic operations.
+## 📁 Explore My Portfolio
 
-[📄 View My Résumé](./resume/Resume-MGEN%20NICANOR-101.pdf)  
-[🔗 Connect on LinkedIn](https://www.linkedin.com/in/eric-nicanor)
+- [🎓 Certifications & Training](./certs/)
+- [🛠️ Projects & Labs](./projects/)
+
