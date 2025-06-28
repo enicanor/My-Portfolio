@@ -34,20 +34,27 @@ Welcome to my cybersecurity portfolio. This site reflects my continuing journey 
 
 ---
 
-## 🙌 Why I'm Sharing This
+## 🌱 Why I’m Sharing This
 
-This portfolio is a personal growth record — and a message that it's never too late or too early to enter cybersecurity.
+This portfolio is more than a résumé — it's a living journal of my growth in cybersecurity and a message to others that it's never too late or too early to build your path in this field.
 
-I've built this using mostly **free and affordable resources**, including open-source tools, Coursera, TryHackMe, and structured training from **GUIDEM**. I share this to encourage:
+I've developed much of my knowledge through a mix of **free**, **affordable**, and **mission-aligned** resources, including:
 
-- Veterans and career changers  
-- Professionals from non-technical fields  
-- Students and new learners starting out
+- Open-source labs using **Elastic**, **Wazuh**, **MITRE ATT&CK**, and **Kali Linux**
+- Online learning via **Coursera**, **Udemy**, and **TryHackMe**
+- Real--world training through **GUIDEM**, whose CDTH and VAPT programs gave me hands-on exposure to cyber defense, threat detection, and SOC practices
 
+I share this openly to encourage:
+- **Veterans and professionals** considering a career shift into cybersecurity
+- **Career changers** coming from non-technical or leadership backgrounds
+- **Young students and early-career learners** who want to start strong with discipline and curiosity — even without expensive tools
 
-## Stay tuned — I’m actively building.
-Open to meaningful conversations in cybersecurity leadership, IT development, and strategic operations.
+If this portfolio inspires just one person to take the next step in their journey, it has already served its purpose.
 
+---
+
+## Stay tuned — I’m actively building.  
+Open to meaningful conversations in cybersecurity leadership, IT development, and strategic & tactical cyber
 ---
 
 ## 📁 Explore My Portfolio
