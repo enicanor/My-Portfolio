@@ -8,4 +8,4 @@ It highlights:
 - My transition to civilian cybersecurity roles focused on SOC, threat response, and enterprise resilience
 - Relevant certifications, training, and international engagements
 
-📎 View: [Click here to view the PDF résumé](Resume-MGEN%20NICANOR-6.pdf)
+📎 [Click here to view the PDF résumé](Resume-MGEN%20NICANOR-6101.pdf)
