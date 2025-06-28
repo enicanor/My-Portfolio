@@ -12,7 +12,8 @@ Now fully engaged in the field of cybersecurity, I am building on my operational
 - Threat detection, blue team workflows, and incident response
 - Ethical Hacking
 - Vulnerability Assestment
-- Penetration Testing  
+- Penetration Testing
+- Cloud Technologies
 - Cybersecurity governance and compliance (NIST, ISO, CIS)  
 - Cyber resilience at national, enterprise, and operational levels  
 - Strategic technology transformation and IT systems leadership  
