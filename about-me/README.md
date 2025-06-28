@@ -18,3 +18,7 @@ This portfolio reflects my continuing journey into cybersecurity, with a focus o
 - Elastic SIEM (Elastic.co)
 - Microsoft Cybersecurity Analyst (Coursera)
 - CompTIA CySA+ (in progress)
+
+
+> Stay tuned — I’m actively building.  
+> Open to meaningful conversations in cybersecurity leadership, IT development, and strategic operations.
