@@ -13,7 +13,6 @@ Now fully engaged in the field of cybersecurity, I am building on my operational
 - Ethical Hacking
 - Vulnerability Assestment
 - Penetration Testing
-- Cloud Technologies
 - Cybersecurity governance and compliance (NIST, ISO, CIS)  
 - Cyber resilience at national, enterprise, and operational levels  
 - Strategic technology transformation and IT systems leadership  
@@ -28,7 +27,7 @@ Now fully engaged in the field of cybersecurity, I am building on my operational
 - Cyber Defense & Threat Hunting (CDTH) – GUIDEM
 - Microsoft Cybersecurity Analyst – Coursera
 - Elastic SIEM (Elastic.co)
-- CompTIA CySA+ (in progress)
+- CompTIA CySA+ (Udemy)
 
 ---
 
@@ -51,5 +50,5 @@ If this portfolio inspires just one person to take the next step in their journe
 
 ---
 
-## Stay tuned — I’m actively building.  
+## REFLECTIONS ....  
 Open to meaningful conversations in cybersecurity leadership, IT development, and strategic & tactical cyber
