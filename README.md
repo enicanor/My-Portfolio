@@ -51,4 +51,15 @@ If this portfolio inspires just one person to take the next step in their journe
 ---
 
 ## REFLECTIONS ....  
-Open to meaningful conversations in cybersecurity leadership, IT development, and strategic & tactical cyber
+## 1. Proactive Threat Hunting: The Case of the Compromised Infrastructure Console (A Reflection)
+I managed a critical incident as a freelance consultant that remains one of my most instructive lessons in cyber defense. It’s a classic case study of why proactive threat hunting is essential when defending high-value infrastructure hastily deployed with vendor systems.
+
+​The Anomaly: During continuous monitoring of an event network, I noticed something unusual: the LED wall management console was generating persistent, high-volume outbound ICMP traffic to a foreign IP address. ICMP is rarely used this way—so why the persistence?
+
+​The Deep Dive: My XDR agent didn’t raise a high-confidence alert, but I trusted my instincts. I ran targeted XQL queries, assisted by generative AI tools to accelerate query building. The results confirmed unsigned parent-child processes driving ICMP traffic—highly abnormal for a display console. OSINT checks revealed links to known APT tactics. This wasn’t commodity malware; it was a sophisticated adversary establishing long-term persistence.
+
+​The Response: • ​Bridging the Gap: Used XDR Live Insights to confirm the process identity and connection. • ​Intelligence Correlation: Validated the file hash against external threat intel, confirming APT associations. • ​Evasion & Kill: The malware dynamically shifted registry keys to evade detection. I hunted the new process and executed a priority kill, followed by artifact removal. • ​Verification: Remote terminal cheks confirmed the C2 link was severed.
+
+​The Takeaway: You cannot wait for the alert—you must hunt for the threat. Advanced adversaries are leveraging ICMP-based C2 channels, dynamic evasion, and supply-chain blind spots to bypass automated controls.​For security teams, the lessons are clear: • ​Proactive sweeps for unusual outbound traffic on vendor-controlled infrastructure. • ​Integrated remediation that balances security with system availability. • ​AI as a force multiplier—accelerating query generation, correlation, and live response.
+
+​This reflection underscores a simple truth: Tools don’t defend, people do. Threat hunting is not optional; it is the decisive edge against state-level adversaries
